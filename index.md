@@ -1,4 +1,4 @@
 # OS232
-|| [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/hilaldfzn/os232/) ||
+|| [TARBALL](SandBox/hilaldfzn.tar.xz) || [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/hilaldfzn/os232/) ||
 
-### REV01: Sat 09 Sept 2023 23:54
+### REV03: Sun 10 Sept 2023 00:49
