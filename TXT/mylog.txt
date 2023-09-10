@@ -16,7 +16,8 @@ ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 30 L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W01 120 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W01 30 L01 SCELE/Discord related
-ZCZC W01 90 L02 CLASSROOM/ZOOM meetings related
-ZCZC W01 80 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W00 120 L05 Quiz related including studying
+ZCZC W01 70 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 30 L32 YouTube: watching OS related topics, etc.
 ZCZC W01 30 L03 GitHub and git related, including commit, push, pull
 ZCZC W01 30 L41 TXT/mylog.txt related.
