@@ -2,11 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W03 60 L01 SCELE/Discord related
-<<<<<<< HEAD
-ZCZC W03 80 L07 Demo related
-=======
 ZCZC W03 90 L07 Demo related
->>>>>>> 9f5d38a (os232 hilaldfzn Weekly Assignment 3 done)
 ZCZC W03 60 L23 Bash, Regex, SED, AWK.
 ZCZC W03 60 L24 Scripting in general.
 ZCZC W03 30 L25 C-language including Make.
