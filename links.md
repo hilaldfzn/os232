@@ -13,5 +13,7 @@ permalink: LINKS/
 * [Cyber-Security-Learning-Resources](https://dimasma0305.github.io/Cyber-Security-Learning-Resources/Resource_List/Link_Bermanfaat/) --- There are several comprehensive materials along with various links that can be used as resources in the field of cyber security.
 
 * [Pointers (Important Questions)](https://www.youtube.com/watch?v=cEphEIMaqms&ab_channel=NesoAcademy) --- In this video, you'll find a collection of crucial questions centered around the fundamentals of pointers. It provides a clear explanation of the distinctions between pointers and dereference operators.
+
+* [Virtual Memory: 7 Address Translation Example Walkthrough](https://youtu.be/6neHHkI0Z0o?si=b5yVYnKhNpNbLzyb) --- Virtual memory translation involves the conversion of virtual page numbers and offsets to their respective physical page numbers and offsets. This process ensures that programs can function as if there's a large, continuous memory space available, even if the physical memory is fragmented or limited. The page table is a key component in this system, maintaining a record of these mappings. These entries are stored on a storage device, like a disk. If a required page isn't readily available in the main memory, a page fault occurs. When this happens, the system retrieves the necessary page from the storage medium and loads it into memory, ensuring smooth operation.
 <br>
 <hr>
