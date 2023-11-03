@@ -16,9 +16,9 @@ permalink: LINKS/
 
 * [Virtual Memory: 7 Address Translation Example Walkthrough](https://youtu.be/6neHHkI0Z0o?si=b5yVYnKhNpNbLzyb) --- Virtual memory translation involves the conversion of virtual page numbers and offsets to their respective physical page numbers and offsets. This process ensures that programs can function as if there's a large, continuous memory space available, even if the physical memory is fragmented or limited. The page table is a key component in this system, maintaining a record of these mappings. These entries are stored on a storage device, like a disk. If a required page isn't readily available in the main memory, a page fault occurs. When this happens, the system retrieves the necessary page from the storage medium and loads it into memory, ensuring smooth operation.
 
-* [How to Set up Shared Memory in Your Linux and MacOS Programs. (shmget, shmat, shmdt, shmctl, ftok)](https://youtu.be/WgVSq-sgHOc?si=uRAhIoWxZCsLwbKz) --- A video containing material on how to implement Shared Memory in Linux.
-
 * [Shared Memory Systems](https://youtu.be/uHtzOFwgD74?si=v2cRNFtChuQhAGFH) --- A video containing material on how Shared Memory Systems work.
+
+* [How to Set up Shared Memory in Your Linux and MacOS Programs. (shmget, shmat, shmdt, shmctl, ftok)](https://youtu.be/WgVSq-sgHOc?si=uRAhIoWxZCsLwbKz) --- A video containing material on how to implement Shared Memory in Linux.
 
 <br>
 <hr>
