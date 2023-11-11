@@ -20,5 +20,9 @@ permalink: LINKS/
 
 * [How to Set up Shared Memory in Your Linux and MacOS Programs. (shmget, shmat, shmdt, shmctl, ftok)](https://youtu.be/WgVSq-sgHOc?si=uRAhIoWxZCsLwbKz) --- A video containing material on how to implement Shared Memory in Linux.
 
+* [Deadlock in Operating System | GeeksforGeeks](https://youtu.be/onkWXaXAgbY?si=Rws2ShTDZXGH1ZsQ) --- This video provides an explanation of what a deadlock is and the conditions required for it to occur. It includes a practical, real-world example of a deadlock situation. The necessary conditions for a deadlock discussed in the video are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait.
+
+* [Introduction - Synchronization - GitBook](https://eric-lo.gitbook.io/synchronization/) --- Contains material such as synchronization, semaphore, and others.
+
 <br>
 <hr>
