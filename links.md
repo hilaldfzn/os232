@@ -24,5 +24,10 @@ permalink: LINKS/
 
 * [Introduction - Synchronization - GitBook](https://eric-lo.gitbook.io/synchronization/) --- Contains material such as synchronization, semaphore, and others.
 
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/index.html) --- Materi untuk mengetahui bagaimana melakukan LFS
+
+* [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=ostUxzY8euhd8fUv) <br>
+Berisi laylist untuk LFS
+
 <br>
 <hr>
